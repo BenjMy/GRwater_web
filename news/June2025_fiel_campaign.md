@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Field Campaign in Fire-Affected Areas: Technology and Science on the Ground"
 date: 2025-06-20
-categories: news
+author: María Burguet
 ---
+
+{% import "macros.html" as macros %}
+
 Over the past few days, the **GRwater project** team has conducted an intensive field campaign in the **Agramon watershed**, affected by the 2019 wildfire. This phase of fieldwork allowed the deployment and validation of various technological tools to monitor **soil and vegetation recovery**.
 
 📸 **1. Technology in action**  
@@ -18,5 +20,8 @@ Sampling was conducted across plots with different **post-fire management treatm
 📸 **4. Multidisciplinary collaboration**  
 The fieldwork brought together experts in **soil science, geophysics, remote sensing, hydrology, and ecology**, showcasing the **integrative approach** of the GRwater project to address post-wildfire landscape challenges.
 
-![Fieldwork in Agramon (June 2025)](https://github.com/BenjMy/website_grwater/blob/main/images/Agram%C3%B3nfieldwork.jpg)
-*Fieldwork in Agramon (June 2025)*
+<figure>
+  <img src="../images/news/Agramonfieldwork.jpg" alt="Fieldwork in Agramon (June 2025)"">
+  <figcaption>“Fieldwork in Agramon (June 2025)"</figcaption>
+</figure>
+
