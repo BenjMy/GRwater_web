@@ -21,7 +21,6 @@ Project research work packages
 
 </div>
 
-
 <div class="lead">
   <h3>Pilot sites</h3>
   <p>Agramon (2019)</p>
@@ -31,7 +30,13 @@ Project research work packages
     <source src="../images/agramon_compressed.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  <!-- Credit -->
+  <p style="font-size:0.9em; color:#555; margin-top:5px;">
+    Credit: Gustavo A. Mesias Ruiz (ICA-CSIC)
+  </p>
 </div>
+
 
 
 
