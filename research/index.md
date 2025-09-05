@@ -22,3 +22,16 @@ Project research work packages
 </div>
 
 
+<div class="lead">
+  <h3>Pilot sites</h3>
+  <p>Agramon (2019)</p>
+
+  <!-- Agramon video -->
+  <video width="600" controls muted autoplay loop playsinline>
+    <source src="../images/agramon_compressed.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+
