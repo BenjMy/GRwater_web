@@ -2,7 +2,7 @@
 layout: post
 title: "Ozcar-Tereno 2025 in Paris:research on the Critical Zone"
 author: "GRwater Research Team"
-date: 2025-10-13 13:00:00 +0200
+date: 2025-10-13
 categories: [Conferences, Research, Ecosystems]
 tags: [OzcarTereno, water-fluxes, semi-arid, remote-sensing, post-fire]
 permalink: /posts/ozcar-tereno-2025-review
@@ -24,10 +24,11 @@ The presentation addressed the significant challenges in modeling the Earth Crit
 * **Validated Application:** Results from diverse sites (**vineyards, savannas, and orchards**) were successfully implemented in the **Two-Source Energy Balance model** and rigorously validated against Eddy Covariance sites across four continents.
 * **Open Source Commitment:** This research was made accessible to the global scientific community via an **Open Source package**, reinforcing our commitment to accessible science.
 
-<figure>
+<figure style="width: 60%; margin: 0 auto; text-align: center;">
   <img src="../images/news/Héctor.jpg" alt="Nieto Ozcar-Tereno Conference">
-  <figcaption>“Keynote speaker to the 3rd Ozcar-Tereno Conference"</figcaption>
+  <figcaption>Keynote speaker to the 3rd Ozcar-Tereno Conference</figcaption>
 </figure>
+
 ---
 ### 2. GRwater: Multiscale Monitoring for Post-Fire Recovery
 
@@ -36,9 +37,9 @@ The presentation addressed the significant challenges in modeling the Earth Crit
 This work tackles the vital issue of **post-fire hillslope restoration** and its impact on reducing soil erosion, restoring hydrological function, and supporting vegetation recovery. 
 The study centers on a sub-catchment of the Mundo river (Albacete, SE Spain) following a 2020 wildfire, evaluating various restoration strategies (mulching, log-erosion barriers, etc.).
 
-<figure>
+<figure style="width: 60%; margin: 0 auto; text-align: center;">
   <img src="../images/news/Maria.jpg" alt="Burguet Ozcar-Tereno Conference">
-  <figcaption>“Poster presentation"</figcaption>
+  <figcaption>Poster presentation</figcaption>
 </figure>
 
 #### The Two Pillars of the GRwater Project:
