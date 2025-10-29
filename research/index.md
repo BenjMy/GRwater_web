@@ -35,6 +35,19 @@ Project research work packages
   <p style="font-size:0.9em; color:#555; margin-top:5px;">
     Credit: Gustavo A. Mesias Ruiz (ICA-CSIC)
   </p>
+
+
+Immediately after fire, different post-fire management strategies were carried out in September
+and October 2012 by forest managers of the regional government on hillslopes throughout the studied
+watershed. Hillslope stabilization techniques consisted of using LEBs and CFD.  
+  
+  {{ macros.figure(src="../images/agramon-1.png", 
+    alt="TSEB_multiwater.png", 
+    caption="Agramon field site treatments", 
+    figsize="width:70%; height:auto;") }}
+
+
+
 </div>
 
 
