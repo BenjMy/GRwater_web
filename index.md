@@ -22,6 +22,15 @@ template: home.html
 The **GR-water project** tackles the growing interest in understanding the fate of water in forest and post-fire
 management in the Spanish region.
 
+”GR” can have two relevant meanings: 1. GRoundwater 2.(Gran Recorrido), which refers to a network of long-distance
+transboundary and well managed walking routes ( ). This analogy underscores the project’s focus on understanding water pathways
+in forest.
+
+> 💡 **Why “GRwater”?**  
+> “GR” carries a dual meaning:  
+> 1️⃣ **Groundwater**, highlighting the project’s hydrogeological focus, and  
+> 2️⃣ **Gran Recorrido**, referring to a network of long-distance, well-managed hiking trails that cross landscapes — an analogy to tracing water pathways through forest ecosystems.
+
 
 <div class="callout">
 
