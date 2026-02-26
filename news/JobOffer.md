@@ -15,12 +15,9 @@ author: Benjamin Mary
 
 ## Sobre el Proyecto
 
-> [!IMPORTANT]  
 > Esta posición forma parte del **[Programa BBVA PRISM](https://www.fbbva.es/ayudas/prisms-problems-program-2025/)**.
-
-Nos enfocamos en **monitorear y gestionar la sedimentación y el flujo de agua en cuencas afectadas por incendios**, utilizando **diques de sedimentación y soluciones basadas en la naturaleza** para mitigar riesgos de inundaciones y erosión tras los incendios forestales.  
-
-Tu trabajo combinará **mediciones de campo, datos de Observación de la Tierra y herramientas geofísicas** para apoyar soluciones prácticas en la recuperación de paisajes post-incendio.
+> Nos enfocamos en **monitorear y gestionar la sedimentación y el flujo de agua en cuencas afectadas por incendios**, utilizando **diques de sedimentación y soluciones basadas en la naturaleza** para mitigar riesgos de inundaciones y erosión tras los incendios forestales.  
+> Tu trabajo combinará **mediciones de campo, datos de Observación de la Tierra y herramientas geofísicas** para apoyar soluciones prácticas en la recuperación de paisajes post-incendio.
 
 ---
 
