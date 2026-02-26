@@ -13,13 +13,12 @@ author: Benjamin Mary
 
 ---
 
-## Sobre el Proyecto
+## Sobre el proyecto
 
 > Esta posición forma parte del **[Programa BBVA PRISM](https://www.fbbva.es/ayudas/prisms-problems-program-2025/)**.
 > Nos enfocamos en **monitorear y gestionar la sedimentación y el flujo de agua en cuencas afectadas por incendios**, utilizando **diques de sedimentación y soluciones basadas en la naturaleza** para mitigar riesgos de inundaciones y erosión tras los incendios forestales.  
 > Tu trabajo combinará **mediciones de campo, datos de Observación de la Tierra y herramientas geofísicas** para apoyar soluciones prácticas en la recuperación de paisajes post-incendio.
 
----
 
 ## Requisitos
 
@@ -29,26 +28,22 @@ Buscamos un/a técnico/a con:
 - Interés en **desarrollo de electrónica de instrumentos o sensores** es un plus.
 - Experiencia en **hidrología** o disposición para participar en **trabajo de campo** es muy valorado.
 
----
-
-## Tus Funciones
+## Tus funciones
 
 - Procesar y analizar **datos ambientales** (de campo y satelitales) para evaluar la sedimentación y la dinámica del agua en áreas afectadas por incendios.
 - Desarrollar y mantener **herramientas de código abierto** para la gestión, análisis y visualización de datos.
 - Participar en **campañas de campo** para recolectar y validar datos en cuencas post-incendio.
 
----
 
-## Lo que Ofrecemos
+## Lo que ofrecemos
 
 - Un rol práctico y aplicado en un proyecto con impacto ambiental y social directo.
 - Oportunidades de crecimiento profesional y posibilidad de extensión de contrato o transición a doctorado.
 - Trabajar en un equipo multidisciplinar de referencia internacional en geofísica aplicada y modelización de la evapotranspiración por teledetección.
 - Flexibilidad laboral, con posibilidad de teletrabajo ciertos días a la semana.
 
----
 
-## Cómo Postularse
+## Cómo postularse
 
 Envía tu **CV** a [benjamin.mary@ica.csic.es](mailto:benjamin.mary@ica.csic.es)  
 

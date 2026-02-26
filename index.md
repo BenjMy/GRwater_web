@@ -32,9 +32,7 @@ management in the Spanish region.
 
 **Want to work with us?**
 
-Want to work with us?
-
-👉 [See the full job offer here](news/JobOffer/)
+👉 [See the a job offer here](news/JobOffer.html)
 
 
 </div>
