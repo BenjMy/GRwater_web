@@ -10,6 +10,7 @@ author: Benjamin Mary
 **Proyecto:** [GRWATER](https://grwater.ica.csic.es/)  
 **Contrato:** 1 año (con posibilidad de extensión o transición a doctorado)  
 **Fecha de inicio:** Tan pronto como sea posible  
+**🗓 Fecha límite para enviar CV:** <span style="color:red"><strong>31 de marzo de 2026</strong></span>
 
 ---
 
