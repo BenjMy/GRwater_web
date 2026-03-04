@@ -40,3 +40,15 @@ management in the Spanish region.
 ## Open source
 
 
+Our team works on several tools and projects, both developed in-house and
+across the larger scientific ecosystem:
+
+* [**pyTSEB**][pyTSEB]: A python Two Source Energy Balance model for estimation of evapotranspiration with remote sensing data.
+* [**pyCATHY**][pyCATHY]: A Python wrapper for CATHY (Catchment Hydrology) - [Camporese et al., 2010]
+* [**Centum**][Centum]: A Python package that facilitates water accounting through energy and water balance modeling
+
+[pyTSEB]: https://github.com/hectornieto/pyTSEB
+[pyCATHY]: https://benjmy.github.io/pycathy_wrapper/
+[Centum]: https://github.com/BenjMy/centum
+
+
