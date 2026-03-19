@@ -8,7 +8,7 @@ author: Manuel Esteban Lucas Borja/ Benjamin Mary
 **Modalidad:** Online  
 **Créditos:** 6 ECTS  
 **Precio:** 200 € (con bonificación del 70% → **60 € para elegibles**)  
-**Fechas:** 14 de abril – 14 de mayo de 2026
+**Fechas:** (Agenda in construction)   14 de abril – 14 de mayo de 2026
 **Enlace:** [web microcrendial](https://www.uclm.es/estudios/propios/microcredencial-subvencionada-inteligencia-artificial-tecn-geoespaciales--incendio)
 
 ---
@@ -21,13 +21,13 @@ El curso se alinea con los marcos europeos de restauración de la naturaleza y m
 
 ## Estructura del curso
 
-**Bloque 1 · Diagnóstico, restauración y monitorización multifuente** (14–26 abr)  
+**Bloque 1 · Diagnóstico, restauración y monitorización multifuente** (Agenda in construction)  
 Marco normativo, indicadores operativos de suelo y vegetación, SIG aplicado con QGIS, cartografía diagnóstica.
 
-**Bloque 2 · Integración de datos geofísicos y teledetección** (27 abr–4 may)  
+**Bloque 2 · Integración de datos geofísicos y teledetección** (Agenda in construction)  
 Sentinel-2 y Landsat, índices espectrales (NDVI, NBR, dNBR), geofísica del suelo (ERT/EM), informe técnico integrador.
 
-**Bloque 3 · Restauración e Inteligencia Artificial** (5–14 may)  
+**Bloque 3 · Restauración e Inteligencia Artificial** (Agenda in construction)  
 Pipelines de IA/ML, clasificación y predicción del estado ecológico, mapas de riesgo, notebooks reproducibles en Python/R.
 
 ## Competencias desarrolladas
