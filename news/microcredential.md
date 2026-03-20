@@ -9,7 +9,7 @@ author: Manuel Esteban Lucas Borja/ Benjamin Mary
 **Créditos:** 6 ECTS  
 **Precio:** 200 € (con bonificación del 70% → **60 € para elegibles**)  
 **Fechas:** (Agenda in construction)   14 de abril – 14 de mayo de 2026
-**Enlace:** [web microcrendial](https://www.uclm.es/estudios/propios/microcredencial-subvencionada-inteligencia-artificial-tecn-geoespaciales--incendio)
+**Enlace:** [https://www.uclm.es/estudios/propios/microcredencial-subvencionada-inteligencia-artificial-tecn-geoespaciales--incendio](https://www.uclm.es/estudios/propios/microcredencial-subvencionada-inteligencia-artificial-tecn-geoespaciales--incendios)
 
 ---
 
@@ -75,4 +75,4 @@ Plataforma **LEAD – UCLM**. Documentación necesaria:
 2. Título académico o acreditación de experiencia profesional equivalente
 
 Para más información, contacta con la dirección académica:  
-**Manuel Esteban Lucas Borja** · [manuel.lucas@uclm.es](mailto:manuel.lucas@uclm.es)
+**Manuel Esteban Lucas Borja** · [ManuelEsteban.Lucas@uclm.es](mailto:ManuelEsteban.Lucas@uclm.es)
