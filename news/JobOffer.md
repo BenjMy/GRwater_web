@@ -8,7 +8,7 @@ author: Benjamin Mary
 
 **Ubicación:** [ICA-CSIC](https://www.ica.csic.es/), Madrid, España  
 **Proyecto:** [GRWATER](https://grwater.ica.csic.es/)  
-**Contrato:** 1 año (con posibilidad de extensión o transición a doctorado)  
+**Contrato:** Indefinido (proyecto de 1 año con posibilidad de extensión o transición a doctorado)  
 **Fecha de inicio:** Tan pronto como sea posible  
 **🗓 Fecha límite para enviar CV:** <span style="color:red"><strong>31 de marzo de 2026</strong></span>
 
