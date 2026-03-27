@@ -1,54 +1,40 @@
 ---
-title: Our research
+title: Our Research
 toc_table:
-  - research/index    
+  - research/index  
+  - research/pilot_sites
   - research/wp1
-  - research/wp2 
-  - research/wp3  
+  - research/wp2
+  - research/wp3
   - research/wp4
 ---
 
-{% import "macros.html" as macros %}
+## Project objectives
 
-<div class="lead">
+The project will explore diverse forest restoration methods, including different tree densities and post-fire forest management techniques such as **mulching, physical barriers, and control areas**. The project is built on two scientific pillars, combining the expertise of the **Tech4AGR0 group at CSIC Madrid** and the knowledge of local partners managing the field sites:
 
-Project research work packages
+1. **Scientific monitoring of soil moisture** using ground-based geophysical and remote sensing (RS) techniques.
+2. **Integration of data** to develop energy balance and water balance models for understanding water distribution in soil and its exchanges with the atmosphere.
 
-- Long term multi-scale monitoring of key components of the ECZ {{ macros.page_link("research/wp1", page, site) }} 
-- Coupling between geophysical, RS and water-energy balance model {{ macros.page_link("research/wp2", page, site) }} 
-- Performance and socio-environmental impacts of forest management {{ macros.page_link("research/wp3", page, site) }} 
-- Communication and dissemination {{ macros.page_link("research/wp4", page, site) }} 
+### Concrete goals
 
-</div>
+- **Goal 1:** Investigate how rain is partitioned and how water moves at multiple spatial and temporal scales in a fire-affected forest. This includes studying the effects of engineered structures (e.g., mulching, erosion barriers) and tree density management using time-lapse soil imaging.
 
-<div class="lead">
-  <h3>Pilot sites</h3>
-  <p>Agramon (2019)</p>
+- **Goal 2:** Assimilate RS and time-lapse geophysical data to train datasets and enhance predictions for **green water footprint (ET<sub>green</sub>)**, **groundwater flow and recharge**, and **water supply**.
 
-  <!-- Agramon video -->
-  <video width="600" controls muted autoplay loop playsinline>
-    <source src="../images/agramon_compressed.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+- **Goal 3:** Foster collaboration among geophysicists, ecohydrologists, and atmospheric scientists by computing relevant proxies for **water accounting**, **soil-plant water availability**, and **hydro-socio-environmental factors**.
 
-  <!-- Credit -->
-  <p style="font-size:0.9em; color:#555; margin-top:5px;">
-    Credit: Gustavo A. Mesias Ruiz (ICA-CSIC)
-  </p>
+- **Goal 4:** Disseminate knowledge about techniques to all target audiences through a balanced program of professional training, demonstrations, and non-academic articles.
 
+---
 
-Immediately after fire, different post-fire management strategies were carried out in September
-and October 2012 by forest managers of the regional government on hillslopes throughout the studied
-watershed. Hillslope stabilization techniques consisted of using LEBs and CFD.  
-  
-  {{ macros.figure(src="../images/agramon-1.png", 
-    alt="TSEB_multiwater.png", 
-    caption="Agramon field site treatments", 
-    figsize="width:70%; height:auto;") }}
+# Work Packages
 
+- **Long-term multi-scale monitoring of key components of the ECZ** ([WP1](research/wp1))
+- **Coupling between geophysical, remote sensing (RS), and water-energy balance models** ([WP2](research/wp2))
+- **Performance and socio-environmental impacts of forest management** ([WP3](research/wp3))
+- **Communication and dissemination** ([WP4](research/wp4))
 
-
-</div>
 
 
 
