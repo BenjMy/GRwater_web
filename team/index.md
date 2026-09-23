@@ -91,7 +91,6 @@ world-leading researchers:
 
 ## Alumni
 
-These are some of the people who passed through the lab and have since moved on
-(only those who have added themselves):
+These are some of the people who passed through the lab:
 
 {{ profiles(page.people.alumni) }}
