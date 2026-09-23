@@ -71,3 +71,15 @@ current:
     #lattes: 8939551682050504
     website: https://blog.uclm.es/manuelestebanlucas/
     
+
+# List of past lab members
+alumni:
+  - name: Xela Carracedo Combo
+    role: Undergraduate student
+    affiliation: Universidad Politécnica de Madrid - ETSI Montes, Forestal y del Medio Natural
+    #github: 
+    email: xelacarracedocombo@gmail.com
+    #orcid: 
+    #picture: 
+    project: "Evaluación de tratamientos de restauración post-incendio mediante modelización
+    hidrológica y teledetección en Agramón (Albacete)"
