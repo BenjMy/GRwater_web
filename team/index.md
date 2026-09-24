@@ -64,10 +64,12 @@ environmental sciences and high-quality open research software.
         {%- endif %}
       </ul>
     </div>
-    {%- if person.picture is defined %}
+    {%- if person.github is defined and person.github %}
+      {%- set picture = "https://github.com" + person.github + ".png" %}
+    {%- elif person.picture is defined and person.picture %}
       {%- set picture = person.picture %}
     {%- else %}
-      {%- set picture = "https://github.com/" + person.github + ".png" %}
+      {%- set picture = "https://ui-avatars.com" + person.name|urlencode + "&background=random" %}
     {%- endif %}
     <img src="{{ picture }}" alt="Profile picture of {{ person.name }}">
   </div>
