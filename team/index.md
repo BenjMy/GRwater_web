@@ -69,7 +69,7 @@ environmental sciences and high-quality open research software.
     {%- elif person.picture is defined and person.picture %}
       {%- set picture = person.picture %}
     {%- else %}
-      {%- set picture = "https://ui-avatars.com" + person.name|urlencode + "&background=random" %}
+      {%- set picture = "/team/pictures/Profile_avatar.png" %}
     {%- endif %}
     <img src="{{ picture }}" alt="Profile picture of {{ person.name }}">
   </div>
